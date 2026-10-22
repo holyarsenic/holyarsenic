@@ -8,6 +8,6 @@ Building things you can actually use.
    3. [Themo](https://github.com/holyarsenic/Themo) (A collection of dark Visual Studio Code themes, from translucent glass to flat solid)
 * My toolkit - JavaScript, TypeScript, React, Next.js, Node.js, Express, MongoDB, PostgreSQL, Prisma, Tailwind CSS, Motion, Docker
 
-Slide into my inbox - [Email](mailto:rohankamat7986@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rohankt4/) | [X](https://x.com/holyarsenic) | [Portfolio](https://holyarsenic.vercel.app/) | [Resume](https://drive.google.com/file/d/1ud42VwVsxRU00Ejw-zAwkVrk9OlQlRze/view?usp=sharing)
+Slide into my inbox - [Email](mailto:rohankamat7986@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rohankt4/) | [X](https://x.com/holyarsenic) | [Portfolio](https://holyarsenic.vercel.app/) 
 
 ![Visitor Counter](https://anime-counter.lulushu.workers.dev/@holyarsenic?scale=0.2&theme=aot&length=6)
