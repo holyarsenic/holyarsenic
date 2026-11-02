@@ -11,4 +11,4 @@ Building things you can actually use.
 
 Slide into my inbox - [Email](mailto:rohankamat7986@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rohankt4/) | [X](https://x.com/holyarsenic) | [Portfolio](https://holyarsenic.vercel.app/) 
 
-![Visitor Counter](https://anime-counter.lulushu.workers.dev/@holyarsenic?scale=0.2&theme=aot&length=6)
+![Visitor Counter](https://anime-counter.lulushu.workers.dev/@holyarsenic?scale=0.2&theme=aot&length=7)
