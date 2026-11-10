@@ -3,7 +3,7 @@ Building things you can actually use.
 * Full Stack Developer (JavaScript, TypeScript, React, Next.js, Node.js, MongoDB, and more)
 * I build working products and AI tools with React, Next.js, and Node.js.
 * Stuff I've shipped -
-   1. [Void UI](https://github.com/holyarsenic/Void-AI) (An AI-powered UI generator that turns a prompt into an animated component using motion)
+   1. [Void UI](https://github.com/holyarsenic/Void-AI) (An AI-powered UI generator that turns a prompt into an animated component using Motion and Three.js (as needed))
    2. [Shuriken](https://github.com/holyarsenic/Shuriken) (A Full Stack social web app for discovering images and engaging with a community)
    3. [Themo](https://github.com/holyarsenic/Themo) (A collection of dark Visual Studio Code themes, from translucent glass to flat solid)
       
