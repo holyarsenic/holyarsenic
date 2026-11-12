@@ -1,6 +1,6 @@
 Building things you can actually use.
 
-* Full Stack Developer (JavaScript, TypeScript, React, Next.js, Node.js, MongoDB, and more)
+* Full Stack Developer (JavaScript, TypeScript, React, Next.js, Node.js and more)
 * I build working products and AI tools with React, Next.js, and Node.js.
 * Stuff I've shipped -
    1. [Void UI](https://github.com/holyarsenic/Void-AI) (An AI-powered UI generator that turns a prompt into an animated component using Motion and Three.js (as needed))
@@ -11,4 +11,4 @@ Building things you can actually use.
 
 Slide into my inbox - [Email](mailto:rohankamat7986@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rohankt4/) | [X](https://x.com/holyarsenic) | [Portfolio](https://holyarsenic.vercel.app/) 
 
-![Visitor Counter](https://anime-counter.lulushu.workers.dev/@holyarsenic?scale=0.2&theme=aot&length=7)
+![Visitor Counter](https://anime-counter.lulushu.workers.dev/@holyarsenic?scale=0.2&theme=aot&length=8)
