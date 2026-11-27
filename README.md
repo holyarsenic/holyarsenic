@@ -1,14 +1,20 @@
+<img align="right" src="https://anime-counter.lulushu.workers.dev/@holyarsenic?scale=0.2&theme=aot&length=8" alt="Profile views" />
+
 Building things you can actually use.
 
-* Full Stack Developer (JavaScript, TypeScript, React, Next.js, Node.js and more)
-* I build working products and AI tools with React, Next.js, and Node.js.
-* Stuff I've shipped -
-   1. [Void UI](https://github.com/holyarsenic/Void-AI) (An AI-powered UI generator that turns a prompt into an animated component using Motion and Three.js (as needed))
-   2. [Shuriken](https://github.com/holyarsenic/Shuriken) (A Full Stack social web app for discovering images and engaging with a community)
-   3. [Themo](https://github.com/holyarsenic/Themo) (A collection of dark Visual Studio Code themes, from translucent glass to flat solid)
-      
-* My toolkit - JavaScript, TypeScript, React, Next.js, Node.js, Express, MongoDB, PostgreSQL, Prisma, Tailwind CSS, Motion, Docker
+Full Stack Developer working across frontend, backend, and AI. I build products, experiment with ideas, and contribute to open source.
 
-Connect me here - [Email](mailto:rohankamat7986@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rohankt4/) | [X](https://x.com/holyarsenic) | [Portfolio](https://holyarsenic.vercel.app/) 
+**01 / Selected work**
 
-![Visitor Counter](https://anime-counter.lulushu.workers.dev/@holyarsenic?scale=0.2&theme=aot&length=8)
+[Void UI](https://github.com/holyarsenic/Void-AI) — Turn prompts into animated UI components with AI, Motion, and Three.js <br>
+[Shuriken](https://github.com/holyarsenic/Shuriken) — Discover, share, and explore amazing images through a social platform built around creativity and community. <br>
+[Themo](https://github.com/holyarsenic/Themo) — Give your VS Code a fresh look with sleek, dark themes inspired by glass effects and minimal design. <br>
+[Snoopy](https://github.com/holyarsenic/Snoopy) — Your personal AI messaging buddy that understands chat context and helps generate smart, natural replies across social platforms. <br>
+
+**02 / Technologies**
+
+JavaScript · TypeScript · React · Next.js · Node.js · Express · MongoDB · PostgreSQL · Prisma · Tailwind CSS · Motion · Docker
+
+**03 / Elsewhere**
+
+[GitHub](https://github.com/holyarsenic) / [Email](mailto:rohankamat7986@gmail.com) / [LinkedIn](https://www.linkedin.com/in/rohankt4/) / [X](https://x.com/holyarsenic) / [Portfolio](https://holyarsenic.vercel.app/)
